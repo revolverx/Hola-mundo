@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+int main (){
+         printf("\nHola mundo ");
+         printf(“\nBrian Arevalo\n”)
+         printf("\nA todos nos gusta programar"); 
+         
+         return 0 ;
+}
